@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 >I'm Mohamed</h1>
-<h3 >A passionate mobile developer and front end developer</h3>
+<h3 >I am a tech entrepreneur passionate about building apps that make people's lives easier by automating their daily tasks. I’m a Flutter Mobile Application Developer for over a year and a half and have intermediate skills in flutter and GitHub along with fire base and have huge experience in Google Play Console. I develop multi platform apps for both android and iOS.</h3>
 
 <h3 >Skils:</h3> <h4 >Flutter</h4>
 
